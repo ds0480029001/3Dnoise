@@ -1,0 +1,238 @@
+# Blender MTL File: '3d_bluse.blend'
+# Material Count: 20
+
+newmtl material_BLUSE_TK_Seam_Backside_Seam_A.003
+Ns 20.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.001000 0.001000 0.001000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump SeamBump_ay-white.jpg
+map_Kd SeamImage_ay-transparent.png
+
+newmtl material_BLUSE_TK_Seam_Backside_Seam_Aa.003
+Ns 20.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.001000 0.001000 0.001000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump SeamBump_ay-white.jpg
+map_Kd SeamImage_ay-transparent.png
+
+newmtl material_BLUSE_TK_Seam_Backside_Seam_Aas.003
+Ns 20.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.001000 0.001000 0.001000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump SeamBump_ay-white.jpg
+map_Kd SeamImage_ay-transparent.png
+
+newmtl material_BLUSE_TK_Seam_Backside_Seam_Ab.003
+Ns 20.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.001000 0.001000 0.001000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump SeamBump_ay-white.jpg
+map_Kd SeamImage_ay-transparent.png
+
+newmtl material_BLUSE_TK_Seam_Backside_Seam_B.003
+Ns 20.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.001000 0.001000 0.001000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump SeamBump_ay-white.jpg
+map_Kd SeamImage_ay-transparent.png
+
+newmtl material_BLUSE_TK_Seam_Backside_Seam_Bh.003
+Ns 20.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.001000 0.001000 0.001000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump SeamBump_ay-white.jpg
+map_Kd SeamImage_ay-transparent.png
+
+newmtl material_BLUSE_TK_Seam_Backside_Seam_Bhs.003
+Ns 20.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.001000 0.001000 0.001000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump SeamBump_ay-white.jpg
+map_Kd SeamImage_ay-transparent.png
+
+newmtl material_BLUSE_TK_Seam_Backside_Seam_Bhss.003
+Ns 20.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.001000 0.001000 0.001000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump SeamBump_ay-white.jpg
+map_Kd SeamImage_ay-transparent.png
+
+newmtl material_BLUSE_TK_Seam_Frontside_Seam_A.003
+Ns 20.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.001000 0.001000 0.001000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump SeamBump_ay-white.jpg
+map_Kd SeamImage_ay-transparent.png
+
+newmtl material_BLUSE_TK_Seam_Frontside_Seam_Aa.003
+Ns 20.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.001000 0.001000 0.001000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump SeamBump_ay-white.jpg
+map_Kd SeamImage_ay-transparent.png
+
+newmtl material_BLUSE_TK_Seam_Frontside_Seam_Aas.003
+Ns 20.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.001000 0.001000 0.001000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump SeamBump_ay-white.jpg
+map_Kd SeamImage_ay-transparent.png
+
+newmtl material_BLUSE_TK_Seam_Frontside_Seam_Ab.003
+Ns 20.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.001000 0.001000 0.001000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump SeamBump_ay-white.jpg
+map_Kd SeamImage_ay-transparent.png
+
+newmtl material_BLUSE_TK_Seam_Frontside_Seam_B.003
+Ns 20.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.001000 0.001000 0.001000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump SeamBump_ay-white.jpg
+map_Kd SeamImage_ay-transparent.png
+
+newmtl material_BLUSE_TK_Seam_Frontside_Seam_Bh.003
+Ns 20.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.001000 0.001000 0.001000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump SeamBump_ay-white.jpg
+map_Kd SeamImage_ay-transparent.png
+
+newmtl material_BLUSE_TK_Seam_Frontside_Seam_Bhs.003
+Ns 20.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.001000 0.001000 0.001000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump SeamBump_ay-white.jpg
+map_Kd SeamImage_ay-transparent.png
+
+newmtl material_BLUSE_TK_Seam_Frontside_Seam_Bhss.003
+Ns 20.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.001000 0.001000 0.001000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump SeamBump_ay-white.jpg
+map_Kd SeamImage_ay-transparent.png
+
+newmtl material_Band_Garment_BLUSE_TK_Pattern_Backside_Band.003
+Ns 90.000016
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.001000 0.001000 0.001000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd FabricTextureImage_ay-default.jpg
+
+newmtl material_Band_Garment_BLUSE_TK_Pattern_Frontside_Band.003
+Ns 90.000016
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.001000 0.001000 0.001000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd FabricTextureImage_ay-default.jpg
+
+newmtl material_Material_Garment_BLUSE_TK_Pattern_Backside_Materia.002
+Ns 90.000016
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.001000 0.001000 0.001000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd FabricTextureImage_ay-default.jpg
+
+newmtl material_Material_Garment_BLUSE_TK_Pattern_Frontside_Materi.002
+Ns 90.000016
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.001000 0.001000 0.001000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd FabricTextureImage_ay-default.jpg
